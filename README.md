@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SINANFIROZ
-- 👀 I’m interested in 
+- 👀 I’m interested in Frontend Development, CyberSecurity
 - 🌱 I’m currently learning Bachelors in Computer Science Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me through my LinkedIn https://www.linkedin.com/in/sinan-firoz-416b81237/
 
 <!---
 SINANFIROZ/SINANFIROZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
