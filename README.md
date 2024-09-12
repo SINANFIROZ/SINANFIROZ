@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SINANFIROZ
-- 👀 I’m interested in Frontend Development, CyberSecurity
+- 👀 I’m interested in Frontend Development, CyberSecurity and Python
 - 🌱 I’m currently pursuing Bachelors in Computer Science Engineering
 - 📫 You can reach me through my LinkedIn https://www.linkedin.com/in/sinan-firoz-416b81237/
 
